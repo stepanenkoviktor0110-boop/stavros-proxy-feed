@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-06-17 23:35">
+  <shop>
+    <name>stavros.ru</name>
+    <company>Ставрос</company>
+    <url>https://www.stavros.ru</url>
+    <platform>1C-Bitrix</platform>
+    <currencies>
+      <currency id="RUB" rate="1"></currency>
+      <currency id="USD" rate="72.1388"></currency>
+      <currency id="EUR" rate="83.7315"></currency>
+      <currency id="UAH" rate="1.61086"></currency>
+      <currency id="BYN" rate="26.0711"></currency>
+    </currencies>
+    <categories>
+      <category id="158">Изделия из дерева и МДФ</category>
+      <category id="93" parentId="158">Ножки и опоры мебельные</category>
+      <category id="313" parentId="93">Ножки неокрашенные</category>
+      <category id="314" parentId="93">Ножки с покрытием</category>
+    </categories>
+    <offers>
+      <offer id="432_350x44_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-145/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/be5/0awsawh42y05e6qdpxdjiep5j4347zo2/tochenaya_mebelnaya_nozhka_mn_145.jpg</picture>
+        <name>Точеная мебельная ножка MN-145</name>
+        <description>Точеная мебельная ножка MN-145 (A=350 B=44 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-145](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-145/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="18999_350x46x72_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-028/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/fd9/ointns851sijs3t99p1etzpa29dffp0f/mebelnaya_nozhka_mn_028.jpg</picture>
+        <name>Точеная мебельная ножка MN-028</name>
+        <description>Точеная мебельная ножка MN-028 (A=350 B=46 F=72 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-028](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-028/).</description>
+        <param name="Коллекции">Классика</param>
+      </offer>
+      <offer id="19033_180x45x50_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-153/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/337/k2p6jyo760j141qicl1b730r13g7ta74/mebelnaya_nozhka_MN_153_10.jpg</picture>
+        <name>Точеная мебельная ножка MN-153</name>
+        <description>Точеная мебельная ножка MN-153 (A=180 B=45 F=50 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-153](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-153/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="19034_430x45x70_Dub_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/rasprodazha/tochenaya-mebelnaya-nozhka-mn-154/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/1f3/b6sj5hzeydtri9a3tlq6ob006mydvijh/mebelnaya_nozhka_MN_154_10.jpg</picture>
+        <name>Точеная мебельная ножка MN-154</name>
+        <description>Точеная мебельная ножка MN-154 (A=430 B=45 F=70 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-154](https://www.stavros.ru/products/rasprodazha/tochenaya-mebelnaya-nozhka-mn-154/).</description>
+      </offer>
+      <offer id="19059_100x45x24_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-nozhka-s-dekorom-iz-poliuretana-mn-152/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/316/s3ef4z2md7e1ouhcqeg4qhdkweu4ry5t/mebelnaya-nozhka_MN-152_10.jpg</picture>
+        <name>Точеная ножка с декором из полиуретана MN-152</name>
+        <description>Точеная ножка с декором из полиуретана MN-152 (A=100 B=45 C=24 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная ножка с декором из полиуретана MN-152](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-nozhka-s-dekorom-iz-poliuretana-mn-152/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="19098_750x44x25_Dub_FurnituraLatun" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-nozhka-s-dekorom-iz-metalla-mn-148/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/b78/mmauln86zn2uwmddggz0kz185k1f0usb/tochenaya_nozhka_s_dekorom_mn_148.jpg</picture>
+        <name>Точеная ножка с декором MN-148</name>
+        <description>Точеная ножка с декором MN-148 (A=750 B=44 C=25 мм) с фурнитурой латунь мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная ножка с декором MN-148](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-nozhka-s-dekorom-iz-metalla-mn-148/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="19099_740x60x90_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-188/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/219/df1uii9e4p1i7z3d9228281lif47bem3/tochenaya_mebelnaya_nozhka_mn_188.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-188</name>
+        <description>Геометрическая мебельная ножка MN-188 (A=740 B=60 F=90 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-188](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-188/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="19104_740x80_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-187/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/f6b/lzj4redtql0rzheyt92cew2tt540cql5/reznaya_mebelnaya_nozhka_mn_187.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-187</name>
+        <description>Геометрическая мебельная ножка MN-187 (A=740 B=80 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-187](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-187/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="19148_100x62_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-193/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/57f/dqkfaejlnd314pz2v96sh8wnnt3pjktz/mebelnaya_nozhka_mn_193.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-193</name>
+        <description>Геометрическая мебельная ножка MN-193 (A=100 B=62 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-193](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-193/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="19155_100x60_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-194/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/b47/psvtixebz2t67ak8h1czkdt53kkgplhv/mebelnaya_nozhka_MN_194_10.jpg</picture>
+        <name>Точеная мебельная ножка MN-194</name>
+        <description>Точеная мебельная ножка MN-194 (A=100 B=60 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-194](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-194/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="19171_450x80x80x60_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-186/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/0ad/kswst6sjdr4fyxq0bgs107ghuey2pnm1/mebelnaya_nozhka_mn_186.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-186</name>
+        <description>Геометрическая мебельная ножка MN-186 (A=450 B=80 C=80 F=60 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-186](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-186/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="19186_150x45x44_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-155/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/631/dl1dcjo1tnmrw7oh2auq7javb9vg6lel/tochenaya_mebelnaya_nozhka_mn_155.jpg</picture>
+        <name>Точеная мебельная ножка MN-155</name>
+        <description>Точеная мебельная ножка MN-155 (A=150 B=45 F=44 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-155](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-155/).</description>
+        <param name="Коллекции">Классика</param>
+      </offer>
+      <offer id="19331_430x42x42x30x30x55_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-196/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/7af/buxdoy16v03yzzp9grkjjywlgc9mtfin/geometricheskaya_mebelnaya_nozhka_mn_196.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-196</name>
+        <description>Геометрическая мебельная ножка MN-196 (A=430 B=42 C=42 D=30 E=30 F=55 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-196](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-196/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="19332_430x44x126x29x29x55_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-197/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/02a/2368ryo120fc46nb97l4qlsqr610j7hs/geometricheskaya_mebelnaya_nozhka_mn_197.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-197</name>
+        <description>Геометрическая мебельная ножка MN-197 (A=430 B=44 C=126 D=29 E=29 F=55 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-197](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-197/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="19333_240x80x80x50x50_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-198/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/341/h43u37ox1z5v3bimvn5qpiwoot7v7a79/mebelnaya_nozhka_mn_198.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-198</name>
+        <description>Геометрическая мебельная ножка MN-198 (A=240 B=80 C=80 D=50 E=50 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-198](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-198/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="19404_750x45x24_Dub_FurnituraLatun" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-nozhka-s-dekorom-iz-metalla-mn-149/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/ef2/8d7fwr21881y1c6dpm282nvbniayb1rk/tochenaya_nozhka_s_dekorom_mn_149.jpg</picture>
+        <name>Точеная ножка с декором MN-149</name>
+        <description>Точеная ножка с декором MN-149 (A=750 B=45 C=24 мм) с фурнитурой латунь мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная ножка с декором MN-149](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-nozhka-s-dekorom-iz-metalla-mn-149/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="19472_160x63x63x56_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-132/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/ebe/3v0avrjxqdkgxi5rackj6fzndnr4ki5o/geometricheskaya_mebelnaya_nozhka_mn_132.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-132</name>
+        <description>Геометрическая мебельная ножка MN-132 (A=160 B=63 C=63 F=56 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-132](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-132/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="19473_160x60x60_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-133/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/ce6/s60c2abvldznnx2ps98idu7s6sdb65b3/geometricheskaya_mebelnaya_nozhka_mn_133.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-133</name>
+        <description>Геометрическая мебельная ножка MN-133 (A=160 B=60 C=60 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-133](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-133/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="19474_150x96x81_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-134/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/83b/iliq21t07ql6cvqw216udhj52k04g0hi/geometricheskaya_mebelnaya_nozhka_mn_134.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-134</name>
+        <description>Геометрическая мебельная ножка MN-134 (A=150 B=96 D=81 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-134](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-134/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="19904_1100x140x121_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-137/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/560/cn2y7keulucratn0c5wsfy2deoeiizrc/reznaya_mebelnaya_nozhka_mn_137.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-137</name>
+        <description>Геометрическая мебельная ножка MN-137 (A=1 100 B=140 D=121 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-137](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-137/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="19905_1100x88x192_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-139/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/312/r7919xy6zmhhc9b7orh9u9fdh6c8psnb/reznaya_mebelnaya_nozhka_mn_139.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-139</name>
+        <description>Геометрическая мебельная ножка MN-139 (A=1 100 D=88  F=192 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-139](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-139/).</description>
+        <param name="Коллекции">Классика</param>
+      </offer>
+      <offer id="19906_1100x102x110_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-140/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/548/dscj0au7hgfi9coynzzql6d18541261q/reznaya_mebelnaya_nozhka_mn_140.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-140</name>
+        <description>Геометрическая мебельная ножка MN-140 (A=1 100 D=102 F=110 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-140](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-140/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="19907_1100x140x97_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-143/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/865/28kp64bszo1afrjt2vyt0399rlle8cvs.jpg</picture>
+        <name>Точеная мебельная ножка MN-143</name>
+        <description>Точеная мебельная ножка MN-143 (A=1 100 B=140 D=97 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-143](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-143/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="20051_150x60_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-192/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/c42/v2oelyphbb6uygp6kb10023mugwqu7kt/mebelnaya_nozhka_mn_192.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-192</name>
+        <description>Геометрическая мебельная ножка MN-192 (A=150 B=60 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-192](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-192/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="20057_390x92x66_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-107/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/7e2/0e8vvvr5pkt1g9639dntdczzgfhwxvus/reznaya_mebelnaya_nozhka_mn_107.jpg</picture>
+        <name>Точеная мебельная ножка MN-107</name>
+        <description>Точеная мебельная ножка MN-107 (A=390 B=92 D=66 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-107](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-107/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="20058_390x69_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-109/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/d46/0qjndtfhuipz5ldxg3ncelyt4fzoa90x/mebelnaya-nozhka_MN-109_10.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-109</name>
+        <description>Геометрическая мебельная ножка MN-109 (A=390 B=69 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-109](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-109/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="20059_390x82x68_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-111/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/5df/j1d6w0jqy3jhxlqnvkticxz4y6hkfrd1/geometricheskaya_mebelnaya_nozhka_mn_111.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-111</name>
+        <description>Геометрическая мебельная ножка MN-111 (A=390 B=82 D=68 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-111](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-111/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="20060_390x81_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-113/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/d15/pr5haylr958pvzfdfcxp0sjtipurh81w/tochenaya_mebelnaya_nozhka_mn_113.jpg</picture>
+        <name>Точеная мебельная ножка MN-113</name>
+        <description>Точеная мебельная ножка MN-113 (A=390 B=81 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-113](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-113/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="20062_390x53_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-119/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/09c/wyatloyqbp0ityl7w5vtnscsy1aced2m/tochenaya_mebelnaya_nozhka_mn_119.jpg</picture>
+        <name>Точеная мебельная ножка MN-119</name>
+        <description>Точеная мебельная ножка MN-119 (A=390 B=53 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-119](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-119/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="20063_390x66_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-121/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/a33/frli37k0scf1s1kh8xmwqf3b05lgy7f3/geometricheskaya_mebelnaya_nozhka_mn_121.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-121</name>
+        <description>Геометрическая мебельная ножка MN-121 (A=390 B=66 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-121](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-121/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="20064_390x99x64_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-125/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/100/sgmchxudg27zabuvr6jkxe7xtn1j7onl/mebelnaya_nozhka_MN_125_10.jpg</picture>
+        <name>Точеная мебельная ножка MN-125</name>
+        <description>Точеная мебельная ножка MN-125 (A=390 B=99 D=64 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-125](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-125/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="20065_390x99x49_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-127/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/b1c/0wim6wpqgzocfxya6moc55lrdbsychhl/mebelnaya-nozhka_MN-127_10.jpg</picture>
+        <name>Точеная мебельная ножка MN-127</name>
+        <description>Точеная мебельная ножка MN-127 (A=390 B=99 D=49 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-127](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-127/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="21244_120x95x75_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/reznaya-mebelnaya-nozhka-mn-001/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/c39/fikep6w4wldsuc5yinhhc7kc6m8ohz5q/mebelnaya-nozhka_MN-001_10.jpg</picture>
+        <name>Резная мебельная ножка MN-001</name>
+        <description>Резная мебельная ножка MN-001 (A=120 B=95 D=75 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Резная мебельная ножка MN-001](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/reznaya-mebelnaya-nozhka-mn-001/).</description>
+        <param name="Коллекции">Классика</param>
+      </offer>
+      <offer id="21258_775x71x112_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/reznaya-mebelnaya-nozhka-mn-010/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/5af/c4z1j8s69j884cvp1zv9vs0jhxnfsyrs/reznaya_mebelnaya_nozhka_mn_010.jpg</picture>
+        <name>Резная мебельная ножка MN-010</name>
+        <description>Резная мебельная ножка MN-010 (A=775 E=71 F=112 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Резная мебельная ножка MN-010](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/reznaya-mebelnaya-nozhka-mn-010/).</description>
+        <param name="Коллекции">Классика</param>
+      </offer>
+      <offer id="21260_430x69x97_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-013/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/561/56jqsxu4n96cgudofalc2eb5czvdkt33/reznaya_mebelnaya_nozhka_mn_013.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-013</name>
+        <description>Геометрическая мебельная ножка MN-013 (A=430 B=69 F=97 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-013](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-013/).</description>
+        <param name="Коллекции">Классика</param>
+      </offer>
+      <offer id="21276_430x45x80_Buk_Standart" available="true">
+        <url>https://www.stavros.ru/products/rasprodazha/reznaya-mebelnaya-nozhka-mn-021/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/b0a/9qhx59ohepkcx7zk20qbxuavo5qag92y/mebelnaya_nozhka_MN_021_10.jpg</picture>
+        <name>Резная мебельная ножка MN-021</name>
+        <description>Резная мебельная ножка MN-021 (A=430 E=45 F=80 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Резная мебельная ножка MN-021](https://www.stavros.ru/products/rasprodazha/reznaya-mebelnaya-nozhka-mn-021/).</description>
+      </offer>
+      <offer id="21277_45x80x58_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-023/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/779/afeknyljey5yx0v1m2j84f3koe5d06il/reznaya_mebelnaya_nozhka_mn_023.jpg</picture>
+        <name>Точеная мебельная ножка MN-023</name>
+        <description>Точеная мебельная ножка MN-023 (A=45 B=80 D=58 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-023](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-023/).</description>
+        <param name="Коллекции">Классика</param>
+      </offer>
+      <offer id="21280_60x64x40_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-024/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/65b/dsftaba6jfpptos9e3yu3c08ebjmz7we/reznaya_mebelnaya_nozhka_mn_024.jpg</picture>
+        <name>Точеная мебельная ножка MN-024</name>
+        <description>Точеная мебельная ножка MN-024 (A=60 B=64 D=40 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-024](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-024/).</description>
+        <param name="Коллекции">Классика</param>
+      </offer>
+      <offer id="21283_85x90x73_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-025/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/6a4/xxf7ecbc0t2zcsldidp0quuzj1uxj46t/reznaya_mebelnaya_nozhka_mn_025.jpg</picture>
+        <name>Точеная мебельная ножка MN-025</name>
+        <description>Точеная мебельная ножка MN-025 (A=85 B=90 D=73 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-025](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-025/).</description>
+        <param name="Коллекции">Классика</param>
+      </offer>
+      <offer id="21287_95x88x87_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-026/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/367/390mkqzml1pe7tiyd9hn0xf7p6etnrlp/reznaya_mebelnaya_nozhka_mn_026.jpg</picture>
+        <name>Точеная мебельная ножка MN-026</name>
+        <description>Точеная мебельная ножка MN-026 (A=95 B=88 D=87 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-026](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-026/).</description>
+        <param name="Коллекции">Классика</param>
+      </offer>
+      <offer id="21289_80x47x43_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-027/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/ab3/s6b9xcqi2htgtxntzp5upzoe53c0u54q/reznaya_mebelnaya_nozhka_mn_027.jpg</picture>
+        <name>Точеная мебельная ножка MN-027</name>
+        <description>Точеная мебельная ножка MN-027 (A=80 B=47 D=43 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-027](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-027/).</description>
+        <param name="Коллекции">Классика</param>
+      </offer>
+      <offer id="21296_650x70x146_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-029/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/977/pmy0zh09yufgkfbjpd32nga7uf65ctw4/reznaya_mebelnaya_nozhka_mn_029.jpg</picture>
+        <name>Точеная мебельная ножка MN-029</name>
+        <description>Точеная мебельная ножка MN-029 (A=650 B=70 F=146 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-029](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-029/).</description>
+        <param name="Коллекции">Классика</param>
+      </offer>
+      <offer id="21299_430x60x88_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-030/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/dd7/p7g59qvz4q6a0v9ya9bw29leihr2x8s0/reznaya_mebelnaya_nozhka_mn_030.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-030</name>
+        <description>Геометрическая мебельная ножка MN-030 (A=430 B=60 F=88 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-030](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-030/).</description>
+        <param name="Коллекции">Классика</param>
+      </offer>
+      <offer id="21301_650x70x146_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-031/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/f31/f81xhxe5sw8jmgtb7385353nqzrkuyzg/reznaya_mebelnaya_nozhka_mn_031.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-031</name>
+        <description>Геометрическая мебельная ножка MN-031 (A=650 B=70 F=146 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-031](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-031/).</description>
+        <param name="Коллекции">Классика</param>
+      </offer>
+      <offer id="21326_120x84_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-049/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/501/si3l9rsrtkuvyrhbs4ha9lx2fpel28cz/reznaya_mebelnaya_nozhka_mn_049.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-049</name>
+        <description>Геометрическая мебельная ножка MN-049 (A=120 B=84 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-049](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-049/).</description>
+        <param name="Коллекции">Ар-деко</param>
+      </offer>
+      <offer id="21330_97x122x74_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-054/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/964/fft6354o6ze6x23y4erdoeg0qg4or0ka/mebelnaya_nozhka_MN_054_10.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-054</name>
+        <description>Геометрическая мебельная ножка MN-054 (A=97 D=122 E=74 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-054](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-054/).</description>
+        <param name="Коллекции">Ар-деко</param>
+      </offer>
+      <offer id="21394_390x84x65_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-101/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/61c/ubvah549lx8y6xr1m5t3hk7vrnf8hyhn/geometricheskaya_mebelnaya_nozhka_mn_101.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-101</name>
+        <description>Геометрическая мебельная ножка MN-101 (A=390 B=84 D=65 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-101](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-101/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="21395_740x108x102_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-102/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/5f8/tb4syrgsq8b2xioakv6vo0brhu4tuh9n/reznaya_mebelnaya_nozhka_mn_102.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-102</name>
+        <description>Геометрическая мебельная ножка MN-102 (A=740 B=108 D=102 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-102](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-102/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="21396_430x62x59x52_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-103/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/e9c/pxpybgk8uaylo4kovzwcnb577ns0mxat/reznaya_mebelnaya_nozhka_mn_103.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-103</name>
+        <description>Геометрическая мебельная ножка MN-103 (A=430 B=62 D=59 F=52 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-103](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-103/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="21397_740x104x96_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-104/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/a3e/uvhwxuheirmcf9mowt2xd4x75a3bjnlh/reznaya_mebelnaya_nozhka_mn_104.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-104</name>
+        <description>Геометрическая мебельная ножка MN-104 (A=740 B=104 D=96 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-104](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-104/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="21398_430x61x56_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-105/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/aed/gzagmb7os2hdzxfu001gfs47swqdui5m/geometricheskaya_mebelnaya_nozhka_mn_105.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-105</name>
+        <description>Геометрическая мебельная ножка MN-105 (A=430 B=61 D=56 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-105](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-105/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="21399_720x138x88_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-106/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/32f/2qzr9yqtokxmfy6kdh0go3o05qf1t3f6/tochenaya_mebelnaya_nozhka_mn_106.jpg</picture>
+        <name>Точеная мебельная ножка MN-106</name>
+        <description>Точеная мебельная ножка MN-106 (A=720 B=138 D=88 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-106](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-106/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="21400_720x84_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-108/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/d96/35yug2tkzy637idqym8apwmiq633h8lt.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-108</name>
+        <description>Геометрическая мебельная ножка MN-108 (A=720 B=84 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-108](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-108/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="21401_720x107x93_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-110/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/61f/u2z0hzml66obp8mtfvskxrtvh5x39smv/geometricheskaya_mebelnaya_nozhka_mn_110.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-110</name>
+        <description>Геометрическая мебельная ножка MN-110 (A=720 B=107 D=93 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-110](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-110/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="21402_720x114x109_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-112/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/055/5c4ehmq0iq0y22608audcqyh4paelx86/reznaya_mebelnaya_nozhka_mn_112.jpg</picture>
+        <name>Точеная мебельная ножка MN-112</name>
+        <description>Точеная мебельная ножка MN-112 (A=720 B=114 D=109 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-112](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-112/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="21404_720x140x97_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-116/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/f0c/z5r9vv11f6m42h1cd7sthac067x5dion/reznaya_mebelnaya_nozhka_mn_116.jpg</picture>
+        <name>Точеная мебельная ножка MN-116</name>
+        <description>Точеная мебельная ножка MN-116 (A=720 B=140 D=97 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-116](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-116/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="21405_720x69x68_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-118/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/f6c/xexucrp8zvdn2ddtral1ccp6z1s1bdmn/reznaya_mebelnaya_nozhka_mn_118.jpg</picture>
+        <name>Точеная мебельная ножка MN-118</name>
+        <description>Точеная мебельная ножка MN-118 (A=720 B=69 D=68 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-118](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-118/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="21406_720x91_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-120/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/156/dmdaxq563kb0bhnjfzs028hzeyqxnsmw/geometricheskaya_mebelnaya_nozhka_mn_120.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-120</name>
+        <description>Геометрическая мебельная ножка MN-120 (A=720 B=91 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-120](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-120/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="21407_720x160x100_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-124/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/2ec/ynj9kic1pyxawmjf6s17x0t8jhhye7n6/reznaya_mebelnaya_nozhka_mn_124.jpg</picture>
+        <name>Точеная мебельная ножка MN-124</name>
+        <description>Точеная мебельная ножка MN-124 (A=720 B=160 D=100 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-124](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-124/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="21408_720x157x64_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-126/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/a1c/mry1mq8ms4segv5ttxfpzroy1cts3no7/reznaya_mebelnaya_nozhka_mn_126.jpg</picture>
+        <name>Точеная мебельная ножка MN-126</name>
+        <description>Точеная мебельная ножка MN-126 (A=720 B=157 D=64 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-126](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-126/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="21409_120x66x45_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-081/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/f86/6x78jd9nrviv0op7946ooed3whw8hvoc/reznaya_mebelnaya_nozhka_mn_081.jpg</picture>
+        <name>Точеная мебельная ножка MN-081</name>
+        <description>Точеная мебельная ножка MN-081 (A=120 B=66 D=45 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-081](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-081/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="21410_120x66x52_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-082/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/f05/bhz5iqj9slpcxq7j038df2x9ew1fjsub/reznaya_mebelnaya_nozhka_mn_082.jpg</picture>
+        <name>Точеная мебельная ножка MN-082</name>
+        <description>Точеная мебельная ножка MN-082 (A=120 B=66 D=52 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-082](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-082/).</description>
+        <param name="Коллекции">Классика</param>
+      </offer>
+      <offer id="21411_100x90x73_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-083/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/86e/bgh61nemrs83zy8lednjse00gg9ozgxz/reznaya_mebelnaya_nozhka_mn_083.jpg</picture>
+        <name>Точеная мебельная ножка MN-083</name>
+        <description>Точеная мебельная ножка MN-083 (A=100 B=90 D=73 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-083](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-083/).</description>
+        <param name="Коллекции">Классика</param>
+      </offer>
+      <offer id="21412_160x66_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-084/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/c74/tc3gpfczefclyxf21ufcgun6534q1muv/reznaya_mebelnaya_nozhka_mn_084.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-084</name>
+        <description>Геометрическая мебельная ножка MN-084 (A=160 B=66 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-084](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-084/).</description>
+        <param name="Коллекции">Классика</param>
+      </offer>
+      <offer id="21413_120x114x68_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-085/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/fb4/zhrtuvbd5aekghmkhpctfk8180dvhyj7/reznaya_mebelnaya_nozhka_mn_085.jpg</picture>
+        <name>Точеная мебельная ножка MN-085</name>
+        <description>Точеная мебельная ножка MN-085 (A=120 B=114 D=68 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-085](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-085/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="21414_100x90x84_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-088/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/c12/rbkjn2r96x7ixqjz326frmwtbkq1rvpf/reznaya_mebelnaya_nozhka_mn_088.jpg</picture>
+        <name>Точеная мебельная ножка MN-088</name>
+        <description>Точеная мебельная ножка MN-088 (A=100 B=90 D=84 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-088](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-088/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="21415_140x66x50_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-089/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/c44/5j0s2436669fbrxhi0zuvbvja4zvzinr/tochenaya_mebelnaya_nozhka_mn_089.jpg</picture>
+        <name>Точеная мебельная ножка MN-089</name>
+        <description>Точеная мебельная ножка MN-089 (A=140 B=66 D=50 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-089](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-089/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="21416_100x90x66_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-093/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/877/q0zpxd4xmuc4wvhlv2fb3x3m83mt0hi4/reznaya_mebelnaya_nozhka_mn_093.jpg</picture>
+        <name>Точеная мебельная ножка MN-093</name>
+        <description>Точеная мебельная ножка MN-093 (A=100 B=90 D=66 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-093](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-093/).</description>
+        <param name="Коллекции">Классика</param>
+      </offer>
+      <offer id="21417_100x90_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-094/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/60a/k7i83q4r1uz59sph32bm3khl1jrepjs2/reznaya_mebelnaya_nozhka_mn_094.jpg</picture>
+        <name>Точеная мебельная ножка MN-094</name>
+        <description>Точеная мебельная ножка MN-094 (A=100 B=90 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-094](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-094/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="21418_95x90x74_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-095/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/83c/5w7mnsk03iv6h5aozongdusl9337l6qf/mebelnaya_nozhka_MN_095_10.jpg</picture>
+        <name>Точеная мебельная ножка MN-095</name>
+        <description>Точеная мебельная ножка MN-095 (A=95 B=90 D=74 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-095](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-095/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="21419_95x90x83_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-097/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/246/lpmj3flkl25utjcg2i9uk25x5oiwkqe4/reznaya_mebelnaya_nozhka_mn_097.jpg</picture>
+        <name>Точеная мебельная ножка MN-097</name>
+        <description>Точеная мебельная ножка MN-097 (A=95 B=90 D=83 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-097](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-097/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="21420_160x162x98_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-098/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/9e3/y4snuuw98wydbfj38r93yva8tvn9qoov/reznaya_mebelnaya_nozhka_mn_098.jpg</picture>
+        <name>Точеная мебельная ножка MN-098</name>
+        <description>Точеная мебельная ножка MN-098 (A=160 B=162 D=98 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-098](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-098/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="21422_120x66_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-099/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/3d0/k3p1sh7aaae2zh4wkl467mmw0ai0aojx/reznaya_mebelnaya_nozhka_mn_099.jpg</picture>
+        <name>Точеная мебельная ножка MN-099</name>
+        <description>Точеная мебельная ножка MN-099 (A=120 B=66 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-099](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-099/).</description>
+        <param name="Коллекции">Классика</param>
+      </offer>
+      <offer id="21673_180x68x96_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-072/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/365/8vbdlhjykwtzvo8obm2qisu3m88183wk/reznaya_mebelnaya_nozhka_mn_072.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-072</name>
+        <description>Геометрическая мебельная ножка MN-072 (A=180 B=68 f=96 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-072](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-072/).</description>
+        <param name="Коллекции">Классика</param>
+      </offer>
+      <offer id="21704_80x60_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-146/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/30f/61juwoi9gjy28tsn76emiyreifuwbnfv/mebelnaya_nozhka_mn_146.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-146</name>
+        <description>Геометрическая мебельная ножка MN-146 (A=80 B=60 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-146](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-146/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="21720_449x44_Dub_FurnituraLatun" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-145-1-1-1-1-1-1-1-1-1/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/e9a/o5etoo703pjrfavc5bahm5ini0tsy115/tochenaya_mebelnaya_nozhka_mn_145_1.jpg</picture>
+        <name>Точеная мебельная ножка MN-145.1</name>
+        <description>Точеная мебельная ножка MN-145.1 (A=449 B=44 мм) с фурнитурой латунь мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-145.1](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-145-1-1-1-1-1-1-1-1-1/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="21723_90x44_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-145-2/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/a84/dtz0kk7n95v7sjkrv0zmfoiws1snab8u/tochenaya_mebelnaya_nozhka_mn_145_2.jpg</picture>
+        <name>Точеная мебельная ножка MN-145.2</name>
+        <description>Точеная мебельная ножка MN-145.2 (A=90 B=44 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-145.2](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-145-2/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="37306_740x51x220x97_Dub_Latun/Chernaya" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-195-2/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/ac0/6297ekco5n2wkd1ckx8ah4fm0g0rzpow/tochenaya_mebelnaya_nozhka_mn_195.jpg</picture>
+        <name>Точеная мебельная ножка MN-195</name>
+        <description>Точеная мебельная ножка MN-195 (A=740 B=51 D=220 E=97 мм) с фурнитурой латунь/черная мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-195](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-195-2/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="37535_740x125x51x98_Dub_FurnituraBelaya" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-202-1/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/622/ko4jj0lm2af920pn2sjuegy4k704su0w/tochenaya_mebelnaya_nozhka_mn_202.jpg</picture>
+        <name>Точеная мебельная ножка MN-202</name>
+        <description>Точеная мебельная ножка MN-202 (A=740 B=125 C=51 D=98 мм) с фурнитурой белая мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-202](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-202-1/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="38040_195x74x39_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-nozhka-s-dekorom-iz-metalla-mn-199/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/27e/m0wp6je86x0t3tjmsimp32uu4qe20qs1/tochenaya_nozhka_s_dekorom_iz_metalla_mn_199.jpg</picture>
+        <name>Точеная ножка с декором из металла MN-199</name>
+        <description>Точеная ножка с декором из металла MN-199 (A=195 B=74 D=39 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная ножка с декором из металла MN-199](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-nozhka-s-dekorom-iz-metalla-mn-199/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="38041_130x63x33_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-nozhka-s-dekorom-iz-metalla-mn-200/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/ed5/kl5h24rfoyeco21fy2gporl4asqjt56j/tochenaya_nozhka_s_dekorom_iz_metalla_mn_200.jpg</picture>
+        <name>Точеная ножка с декором из металла MN-200</name>
+        <description>Точеная ножка с декором из металла MN-200 (A=130 B=63 D=33 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная ножка с декором из металла MN-200](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-nozhka-s-dekorom-iz-metalla-mn-200/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="38301_390x86x69_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-117-1/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/e9f/gb29b4ye39rxaa00ti7tijvdhmc5bsmf/reznaya_mebelnaya_nozhka_mn_117.jpg</picture>
+        <name>Точеная мебельная ножка MN-117</name>
+        <description>Точеная мебельная ножка MN-117 (A=390 B=86 D=69 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-117](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-117-1/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="38702_740x52x56_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-s-dekorom-iz-metalla-mn-203-1/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/a1f/s8pd0fbbdb89sih48fuhvknzscvfeery/tochenaya_mebelnaya_nozhka_s_dekorom_iz_metalla_mn_203_1.jpg</picture>
+        <name>Точеная мебельная ножка с декором из металла MN-203.1</name>
+        <description>Точеная мебельная ножка с декором из металла MN-203.1 (A=740 B=52 C=56 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка с декором из металла MN-203.1](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-s-dekorom-iz-metalla-mn-203-1/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="43636_125x81_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-204/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/2ce/896afx2wbvy0vt3hfttgv7m2e40n4rz5/mebelnaya_nozhka_mn_204.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-204</name>
+        <description>Геометрическая мебельная ножка MN-204 (A=125 B=81 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-204](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-204/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="60906_180x86x75_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-178/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/269/sfaunqamxul68qshxzkdsg780x6uhhhi/tochenaya_mebelnaya_nozhka_mn_178.jpg</picture>
+        <name>Точеная мебельная ножка MN-178</name>
+        <description>Точеная мебельная ножка MN-178 (A=180 B=86 D=75 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-178](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-178/).</description>
+        <param name="Коллекции">Классика</param>
+      </offer>
+      <offer id="60907_220x86x48_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-179/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/dfd/qxi6ec4nd9f7d528669hfimpw7fzhf07/tochenaya_mebelnaya_nozhka_mn_179.jpg</picture>
+        <name>Точеная мебельная ножка MN-179</name>
+        <description>Точеная мебельная ножка MN-179 (A=220 B=86 D=48 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-179](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-179/).</description>
+        <param name="Коллекции">Классика</param>
+      </offer>
+      <offer id="60908_145x92x60_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-183/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/470/l46vrhnr0hf806691vo1kv1w4gjskifs/tochenaya_mebelnaya_nozhka_mn_183.jpg</picture>
+        <name>Точеная мебельная ножка MN-183</name>
+        <description>Точеная мебельная ножка MN-183 (A=145 B=92 D=60 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-183](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-183/).</description>
+        <param name="Коллекции">Классика</param>
+      </offer>
+      <offer id="67260_250x60x60_Dub_FurnituraNerzhaveyuschayastal" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-205-1/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/1b6/5y0sll9ew3hsbu95wxer4br9zh803los/geometricheskaya_mebelnaya_nozhka_mn_205.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-205</name>
+        <description>Геометрическая мебельная ножка MN-205 (A=250 B=60 F=60 мм) с фурнитурой нерж. сталь мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-205](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-205-1/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="67270_120x52_Dub_FurnituraNerzhaveyuschayastal" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-206-1/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/908/apws2rcblor2aqtwtmiqw08q73zc7z2c/geometricheskaya_mebelnaya_nozhka_mn_206.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-206</name>
+        <description>Геометрическая мебельная ножка MN-206 (A=120 B=52 мм) с фурнитурой нерж. сталь мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-206](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-206-1/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="68231_120x122x122x24_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-210/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/27c/9gf11t1rni1w7oc5wzx3l38t1ziva67z/mebelnaya_nozhka_mn_210.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-210</name>
+        <description>Геометрическая мебельная ножка MN-210 (A=120 B=122 C=122 F=24 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-210](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-210/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="68696_130x220x39x25_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-209/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/0d5/08nrnz5w46uot0iogz4ge0fh8oj9l4ib/mebelnaya_nozhka_MN_209_10.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-209</name>
+        <description>Геометрическая мебельная ножка MN-209 (A=130 B=220 E=39 F=25 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-209](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-209/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="68698_200x183x42x70x105x37x40_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-211/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/a84/z9ax29dit8bdlpv5jdfg03t6880hg0w6/mebelnaya_nozhka_MN_211_10.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-211</name>
+        <description>Геометрическая мебельная ножка MN-211 (A=200 B=183 C=42 D=70 E=105 F=37 G=40 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-211](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-211/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="68699_190x120x32x51_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-213/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/593/4bhzc2m2uu8qyr1a3ye13nbojdwcx3m0/mebelnaya_nozhka_mn_213.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-213</name>
+        <description>Геометрическая мебельная ножка MN-213 (A=190 B=120 C=32 D=51 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-213](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-213/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="68873_160x44x60_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-214/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/120/x8zcoowd5ycs698cze4iljwc4kvfodoi/geometricheskaya_mebelnaya_nozhka_mn_214.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-214</name>
+        <description>Геометрическая мебельная ножка MN-214 (A=160 B=44 C=60 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-214](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-214/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="69143_125x81x40_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-172-1/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/6b4/66bfmh8n9qxl1k2crk48z7i400lzka3t/mebelnaya_nozhka_mn_172_1.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-172.1</name>
+        <description>Геометрическая мебельная ножка MN-172.1 (A=125 B=81 G=40 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-172.1](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-172-1/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="71771_117x120x120x16_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-208/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/044/058xsk602ty37r2lukagellsnkzbo64k/mebelnaya_nozhka_mn_208.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-208</name>
+        <description>Геометрическая мебельная ножка MN-208 (A=117 B=120 C=120 F=16 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-208](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-208/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="71947_194x74x39_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-217/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/a2f/3ddwvr1t16l5xvk34o254hd2nqd0wdr2/tochenaya_mebelnaya_nozhka_mn_217.jpg</picture>
+        <name>Точеная мебельная ножка MN-217</name>
+        <description>Точеная мебельная ножка MN-217 (A=194 B=74 D=39 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-217](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-217/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="73517_105x109x38x20_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-220/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/455/6ca5khngkewh2s8mkmdkyufdtdtq29ur/tochenaya_mebelnaya_nozhka_mn_220.jpg</picture>
+        <name>Точеная мебельная ножка MN-220</name>
+        <description>Точеная мебельная ножка MN-220 (A=105 B=109 D=38 E=20 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Точеная мебельная ножка MN-220](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/tochenaya-mebelnaya-nozhka-mn-220/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="73740_60x150x42_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-218/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/c89/3lvj2vhz0u1cl2bbv71wuh5ptlmcu8mf/geometricheskaya_mebelnaya_nozhka_mn_218.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-218</name>
+        <description>Геометрическая мебельная ножка MN-218 (A=60 B=150 C=42 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-218](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-218/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+      <offer id="73741_60x150x42_Buk_Prestizh" available="true">
+        <url>https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-219/</url>
+        <categoryId>313</categoryId>
+        <picture>https://www.stavros.ru/upload/iblock/8e1/gzqvtifhvfua1ik9cn5xf1rpz6bcg7ms/geometricheskaya_mebelnaya_nozhka_mn_219.jpg</picture>
+        <name>Геометрическая мебельная ножка MN-219</name>
+        <description>Геометрическая мебельная ножка MN-219 (A=60 B=150 C=42 мм) мебельная ножка опора ножки опоры для мебели стола столешницы дивана кресла комода тумбы шкафа кровати банкетки; неокрашенные под покраску заготовка либо с покрытием эмаль лак тонировка; материал массив бук дуб МДФ. Выдерживают вертикальную нагрузку не менее 100 кг. Карточка: [Геометрическая мебельная ножка MN-219](https://www.stavros.ru/products/izdeliya-iz-massiva/nozhki-mebelnye/nozhki-neokrashennye/geometricheskaya-mebelnaya-nozhka-mn-219/).</description>
+        <param name="Коллекции">Современная</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
