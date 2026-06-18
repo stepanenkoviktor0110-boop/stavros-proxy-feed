@@ -107,13 +107,13 @@ for (const o of legs) {
 // 3. Лимит триала.
 const kept = [...byProduct.values()].slice(0, MAX_OFFERS);
 
-// 4. Вырезать цену и параметры (Коллекции «Современная/Классика» — внутренние,
-//    протекают в ответы бота и сбивают клиента), обогатить description, url без ?offer=.
+// 4. Вырезать цену (деньги → менеджер), обогатить description, url без ?offer=.
+//    <param>Коллекции (Современная/Классика) ОСТАВЛЯЕМ — это данные для будущей
+//    работы бота по коллекциям; «не вываливать непрошено» закрыто правилом промпта.
 for (const o of kept) {
   delete o['price'];
   delete o['currencyId'];
   delete o['oldprice'];
-  delete o['param'];
   o['url'] = baseUrl(o);
   o['description'] = enrichDescription(o, heightsByProduct.get(baseUrl(o)));
 }
