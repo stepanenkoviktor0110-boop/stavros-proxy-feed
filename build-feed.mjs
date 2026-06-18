@@ -40,14 +40,26 @@ async function fetchFeed(url) {
 const catId = (offer) => String(offer['categoryId'] ?? '').trim();
 const baseUrl = (offer) => String(offer['url'] ?? '').split('?')[0];
 
+// Высота модели закодирована в description варианта как «(A=350 B=44 мм)».
+// A — высота в мм; собираем по всем вариантам товара, чтобы бот видел весь ряд.
+const heightOf = (offer) => {
+  const m = String(offer['description'] ?? '').match(/A=(\d+)/);
+  return m ? Number(m[1]) : null;
+};
+
 // Самодостаточный description: RAG отдаёт модели только <name>+<description>.
-// Цену НЕ пишем (деньги → менеджер). Ссылку даём — на карточку товара.
-function enrichDescription(offer) {
+// Цену НЕ пишем (деньги → менеджер). Перечисляем ВСЕ доступные высоты (дедуп
+// варианты-по-размеру схлопывает в одну запись — без этого бот «не видит» размеры).
+// Ссылку даём — на карточку товара.
+function enrichDescription(offer, heights) {
   const name = String(offer['name'] ?? '').trim();
-  const orig = String(offer['description'] ?? '').trim();
   const url = baseUrl(offer);
   const card = name && url ? ` Карточка: [${name}](${url}).` : '';
-  return `${orig ? orig + ' ' : ''}${LEG_SYNONYMS}${card}`.trim();
+  const h =
+    heights && heights.size
+      ? ` Доступные высоты (A), мм: ${[...heights].sort((a, b) => a - b).join(', ')}.`
+      : '';
+  return `${name}.${h} ${LEG_SYNONYMS}${card}`.replace(/\s+/g, ' ').trim();
 }
 
 // ───── Основной поток ────────────────────────────────────────────────────────
@@ -77,27 +89,33 @@ const allOffers = shop?.offers?.offer ?? [];
 const legs = allOffers.filter((o) => KEEP_CATEGORY_IDS.has(catId(o)));
 
 // 2. Дедуп вариантов до уникальных товаров (по базовому URL). available=true,
-//    если хоть один вариант доступен.
+//    если хоть один вариант доступен. Высоты всех вариантов копим в Set.
 const byProduct = new Map();
+const heightsByProduct = new Map();
 for (const o of legs) {
   const key = baseUrl(o);
   if (!byProduct.has(key)) {
     byProduct.set(key, o);
+    heightsByProduct.set(key, new Set());
   } else if (String(o['@_available']) === 'true') {
     byProduct.get(key)['@_available'] = 'true';
   }
+  const h = heightOf(o);
+  if (h !== null) heightsByProduct.get(key).add(h);
 }
 
 // 3. Лимит триала.
 const kept = [...byProduct.values()].slice(0, MAX_OFFERS);
 
-// 4. Вырезать цену, обогатить description, нормализовать url (без ?offer=).
+// 4. Вырезать цену и параметры (Коллекции «Современная/Классика» — внутренние,
+//    протекают в ответы бота и сбивают клиента), обогатить description, url без ?offer=.
 for (const o of kept) {
   delete o['price'];
   delete o['currencyId'];
   delete o['oldprice'];
+  delete o['param'];
   o['url'] = baseUrl(o);
-  o['description'] = enrichDescription(o);
+  o['description'] = enrichDescription(o, heightsByProduct.get(baseUrl(o)));
 }
 
 // 5. Собрать минимальный shop: только наши категории + отобранные офферы.
