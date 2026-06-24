@@ -8,7 +8,7 @@
 // Подробности — references/04-feeds-and-widgets.md, SKILL.md Шаг 5.
 
 import { XMLParser, XMLBuilder } from 'fast-xml-parser';
-import { writeFileSync, mkdirSync } from 'node:fs';
+import { writeFileSync, mkdirSync, copyFileSync, existsSync } from 'node:fs';
 
 // ───── Конфигурация ─────────────────────────────────────────────────────────
 
@@ -31,10 +31,23 @@ const LEG_SYNONYMS =
 
 // ───── Утилиты ───────────────────────────────────────────────────────────────
 
-async function fetchFeed(url) {
-  const res = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0 (proxy-feed)' } });
-  if (!res.ok) throw new Error(`Source feed fetch failed: ${res.status}`);
-  return res.text();
+async function fetchFeed(url, { timeoutMs = 30000, retries = 4 } = {}) {
+  // Таймаут + ретраи: без таймаута fetch к RU-источнику может зависнуть навечно
+  // (геоблок IP GH-раннеров) → прогон клинит concurrency-lock → копятся cron'ы → письма.
+  for (let attempt = 0; ; attempt++) {
+    const ac = new AbortController();
+    const timer = setTimeout(() => ac.abort(), timeoutMs);
+    try {
+      const res = await fetch(url, { headers: { 'User-Agent': 'Mozilla/5.0 (proxy-feed)' }, signal: ac.signal });
+      if (!res.ok) throw new Error(`Source feed fetch failed: ${res.status}`);
+      return await res.text();
+    } catch (e) {
+      if (attempt >= retries) throw e;
+      await new Promise(r => setTimeout(r, 2000 * (attempt + 1)));
+    } finally {
+      clearTimeout(timer);
+    }
+  }
 }
 
 const catId = (offer) => String(offer['categoryId'] ?? '').trim();
@@ -64,7 +77,16 @@ function enrichDescription(offer, heights) {
 
 // ───── Основной поток ────────────────────────────────────────────────────────
 
-const xml = await fetchFeed(SOURCE_FEED_URL);
+let xml;
+try {
+  xml = await fetchFeed(SOURCE_FEED_URL);
+} catch (e) {
+  // last-known-good: источник недоступен → отдаём закоммиченный seed feed.xml как public/feed.xml,
+  // выходим успешно (деплой отдаст прошлую версию, фид не пустеет, письма нет).
+  console.error(`[warn] source unavailable (${e.message}); reusing committed seed feed.xml`);
+  if (existsSync('feed.xml')) { mkdirSync('public', { recursive: true }); copyFileSync('feed.xml', OUT_PATH); }
+  process.exit(0);
+}
 
 const parser = new XMLParser({
   ignoreAttributes: false,
