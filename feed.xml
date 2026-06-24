@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-23 21:40">
+<yml_catalog date="2026-06-24 05:50">
   <shop>
     <name>stavros.ru</name>
     <company>Ставрос</company>
@@ -7,10 +7,10 @@
     <platform>1C-Bitrix</platform>
     <currencies>
       <currency id="RUB" rate="1"></currency>
-      <currency id="USD" rate="73.765"></currency>
-      <currency id="EUR" rate="84.5863"></currency>
-      <currency id="UAH" rate="1.64253"></currency>
-      <currency id="BYN" rate="26.3446"></currency>
+      <currency id="USD" rate="74.62"></currency>
+      <currency id="EUR" rate="85.4847"></currency>
+      <currency id="UAH" rate="1.66259"></currency>
+      <currency id="BYN" rate="26.4958"></currency>
     </currencies>
     <categories>
       <category id="158">Изделия из дерева и МДФ</category>
